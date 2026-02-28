@@ -7,6 +7,7 @@
 ###
 
 <div align="center">
+  <img src="developer.gif" alt="Developer Animation" height="200">
 <img height="200"   src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZzaHA0MWdwbHdsZmxicHJuZnFkdGx1NGpha25ha2s1NWt2ZmdnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" />
   <img height="200" src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"  />
 </div>
