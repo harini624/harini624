@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">🚀TechStack </h2>
 
 ###
 
@@ -76,4 +76,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harini624&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+
+###
+<h2 align="left">Project</h2>
 
