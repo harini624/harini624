@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 Harini</h1>
-###
 
-<p align="left">Python Full Stack Developer From India</p>
+
+<p align="center">Python Full Stack Developer From India</p>
 
 ###
 
