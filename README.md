@@ -76,3 +76,8 @@
 
 ###
 
+###
+
+<img src="https://raw.githubusercontent.com/harini624/harini624/output/snake.svg" alt="Snake animation" />
+
+###
