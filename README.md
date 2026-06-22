@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Django, Java Script<br>🛠️ Builds real-world beginner projects<br>🎯 Focuses on improving problem solving skills</p>
+<p align="left">📚 I'm currently learning Django,RESTAPI<br>🛠️ Builds real-world beginner projects<br>🎯 Focuses on improving problem solving skills</p>
 
 ###
 
