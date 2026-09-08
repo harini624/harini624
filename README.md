@@ -71,7 +71,7 @@
 
 <h2>TODOLIST | LIVE DEMO </h2>
 <a href="https://todolist-9f9k.onrender.com"target="_blank" >
-  link
+ 🔗
 </a>
 
 ###
