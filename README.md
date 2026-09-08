@@ -69,10 +69,11 @@
 </div>
 <br clear="both">
 
-<h2>TODOLIST | LIVE DEMO </h2>
+<h2>TODOLIST | LIVE DEMO 
 <a href="https://todolist-9f9k.onrender.com"target="_blank" >
  🔗
 </a>
+</h2>
 
 ###
 
